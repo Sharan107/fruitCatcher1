@@ -61,7 +61,7 @@ class Game{
         text(15);
         fill("Black");
         stroke("black");
-        strokeWeight("5");
+        strokeWeight(5);
         text(allPlayers[plr].name,x-25,y+25);
                          
         }
