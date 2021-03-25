@@ -59,9 +59,9 @@ class Game{
                          
     //add code to display the player's name on the respective basket.
         text(15);
-        fill("Black");
+        fill("white");
         stroke("black");
-        strokeWeight(5);
+        strokeWeight(3);
         text(allPlayers[plr].name,x-25,y+25);
                          
         }
